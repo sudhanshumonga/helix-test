@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1kaDhrCyjES8kj0t_5ZT9bqu_rQdQeqvL
+  /:
+    url: https://main--tmg-ucm--hlxsites.helix3.dev/
+    type: markup
