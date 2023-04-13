@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://main--tmg-ucm--hlxsites.helix3.dev/
+    url: http://10.42.32.252:4502/content/output/sites/userguide_master-ditamap/personal_spaceship_operations_manual.html?toc=0
     type: markup
