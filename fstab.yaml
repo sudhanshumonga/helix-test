@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: http://10.42.32.252:4502/content/output/sites/userguide_master-ditamap/personal_spaceship_operations_manual.html?toc=0
+    url: https://www.grainge.org/pages/authoring/rh_tour/rh2022/introduction/about_robohelp.htm
     type: markup
